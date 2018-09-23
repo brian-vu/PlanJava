@@ -3,7 +3,6 @@ import java.util.*;
 
 
 /***
- * Has not completed yet.
  * The idea is using Topology sort to represent a linear ordering of
  * the graph
  * Once we have topological order (or linear representation), we one by one process all vertices
